@@ -1,0 +1,4 @@
+protein_path,ligand
+own_to_dock/4RIYB.pdb,own_to_dock/IRE.mol2
+own_to_dock/4RIYD.pdb,own_to_dock/IRE.mol2
+own_to_dock/5XGNA.pdb,own_to_dock/IRE.mol2
