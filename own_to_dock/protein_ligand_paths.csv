@@ -1,4 +1,3 @@
 protein_path,ligand
-own_to_dock/4RIYB.pdb,own_to_dock/IRE.mol2
-own_to_dock/4RIYD.pdb,own_to_dock/IRE.mol2
-own_to_dock/5XGNA.pdb,own_to_dock/IRE.mol2
+own_to_dock/4hsEGFR.B99990873.pdb,own_to_dock/IRE.mol2
+own_to_dock/4hsEGFR.B99990566.pdb,own_to_dock/IRE.mol2
